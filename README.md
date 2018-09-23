@@ -19,3 +19,16 @@ sss
 1. Item 2
 	1. Item 2a
 	1. Item 2b
+# New List
+- a
+- b
+- c
+
+# Table
+------
+A | B
+------
+Item A | Item B
+
+
+
